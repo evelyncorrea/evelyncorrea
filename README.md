@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=400&color=F9FAFC&multiline=true&width=250&height=80&lines=22+years+old;Front-end+Developer;Brazillian+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
-<div align="end">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lovely-pants&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=f9fafc&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
 <br />
 
 ```js
