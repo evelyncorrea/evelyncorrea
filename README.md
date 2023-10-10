@@ -34,7 +34,7 @@ let work = {
 
 <code><img src="https://www.svgrepo.com/show/355081/js.svg" width="40px" alt="JavaScript" title="JavaScript" /></code>
 <code><img src="https://www.svgrepo.com/show/355190/reactjs.svg" width="40px" alt="ReactJS" title="ReactJS" /></code>
-<code><img src="https://www.svgrepo.com/svg/493625/vue-vuejs-javascript-js-framework.svg" width="40px" alt="VueJS" title="VueJS" /></code>
+<code><img src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg" width="40px" alt="VueJS" title="VueJS" /></code>
 <code><img src="https://www.svgrepo.com/show/373669/html.svg" width="40px" alt="HTML5" title="HTML5" /></code>
 <code><img src="https://www.svgrepo.com/show/373535/css.svg" width="40px" alt="CSS3" title="CSS3" /></code>
 <code><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40px" alt="NextJS" title="NextJS" /></code>
