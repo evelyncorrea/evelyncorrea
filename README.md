@@ -1,6 +1,6 @@
 # Hello! I'm Evelyn 🌸
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=400&color=F9FAFC&multiline=true&width=250&height=80&lines=22+years+old;Front-end+Developer;Brazillian+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=400&color=F9FAFC&multiline=true&width=250&height=80&lines=23+years+old;Front-end+Developer;Brazillian+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <br />
 
@@ -15,8 +15,8 @@ let timezone = new Date
 
 let work = {
   isWorking: true,
-  where: 'Avenue Code',
-  position: 'Consultant - Software Engineer',
+  company: 'Avenue Code',
+  position: 'Consultant - Mid Software Engineer',
   since: 2021,
 };
 
@@ -34,6 +34,7 @@ let work = {
 
 <code><img src="https://www.svgrepo.com/show/355081/js.svg" width="40px" alt="JavaScript" title="JavaScript" /></code>
 <code><img src="https://www.svgrepo.com/show/355190/reactjs.svg" width="40px" alt="ReactJS" title="ReactJS" /></code>
+<code><img src="https://www.svgrepo.com/show/355190/vuejs.svg" width="40px" alt="VueJS" title="VueJS" /></code>
 <code><img src="https://www.svgrepo.com/show/373669/html.svg" width="40px" alt="HTML5" title="HTML5" /></code>
 <code><img src="https://www.svgrepo.com/show/373535/css.svg" width="40px" alt="CSS3" title="CSS3" /></code>
 <code><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40px" alt="NextJS" title="NextJS" /></code>
