@@ -1,6 +1,6 @@
 # Hello! I'm Evelyn 🌸
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=400&color=F9FAFC&multiline=true&width=250&height=80&lines=23+years+old;Front-end+Developer;Brazillian+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=400&color=F9FAFC&multiline=true&width=250&height=80&lines=24+years+old;Front-end+Developer;Brazillian+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <br />
 
@@ -65,10 +65,6 @@ let work = {
 <code><img src="https://www.svgrepo.com/show/353827/google-tag-manager.svg" width="40px" alt="GTM" title="GTM" /></code>
 <code><img src="https://www.svgrepo.com/show/353443/aws.svg" width="40px" alt="AWS" title="AWS" /></code>
 
-<br/>
-
-![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelyncorrea&hide=stars,issues&count_private=true&show_icons=true&theme=dark)
-
 <br /><br />
 
 ## 💡 Let's connect!
@@ -83,9 +79,6 @@ let work = {
 </a>
 <a href="https://www.instagram.com/evefrr/">
   <code><img width="40px" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="My Instagram profile" /></code>
-</a>
-<a href="https://twitter.com/evefrr">
- <code> <img width="40px" src="https://www.svgrepo.com/show/183608/twitter.svg" alt="My Twitter profile" /></code>
 </a>
 
 <br /><br /><br />
