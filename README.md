@@ -1,7 +1,5 @@
 # Hello! I'm Evelyn 🌸
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=400&color=F9FAFC&multiline=true&width=250&height=80&lines=24+years+old;Front-end+Developer;Brazillian+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
-
 <br />
 
 ```js
@@ -15,9 +13,9 @@ let timezone = new Date
 
 let work = {
   isWorking: true,
-  company: 'Avenue Code',
-  position: 'Consultant - Mid Software Engineer',
-  since: 2021,
+  company: 'Caju Benefícios',
+  position: 'Mid Software Engineer - Frontend',
+  since: 2024,
 };
 
 ```
@@ -43,12 +41,6 @@ let work = {
 <code><img src="https://www.svgrepo.com/show/330132/chakraui.svg" width="40px" alt="ChakraUI" title="ChakraUI" /></code>
 <code><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="40px" alt="TypeScript" title="TypeScript" /></code>
 <code><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="40px" alt="Node.js" title="Node.js" /></code>
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evelyncorrea&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br /><br />
 
 ### 🛠 Tools I'm familiar with
 
